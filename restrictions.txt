@@ -1,0 +1,34 @@
+Methods to be written in file:
+Bisection
+False-position
+Fixed point
+Newton-Raphson
+Secant
+Bierge-Vieta
+General Algorithm
+All Methods
+
+File to be written in the following order:
+Method name
+equation
+iteration
+precession
+parameter1
+parameter2    // if any valie is not required '/' is put in file instead
+
+-------------------------------------------------------------------------------------------------
+Methods:
+Gaussian-elimination
+LU decomposition
+Gaussian-Jordan
+Gauss-Seidel
+All Methods
+
+order:
+Method name
+equation
+iteration
+precession
+number of roots
+
+-------------------------------------------------------------------------------
